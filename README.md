@@ -5,12 +5,12 @@ I enjoy testing new things and broke it sometimes, waste most of my time in my s
 ![anime_comp](https://github.com/Dmgg00/Dmgg00/blob/main/Media/anime-computer.gif)
 
 **Some things about me:**
-- I'm a AI student in the science research center (CINC ![CINC](https://github.com/Dmgg00/Dmgg00/blob/main/Media/cinc.png) by its acronym in Spanish) [Facebook](https://www.facebook.com/CInCUAEM).
-- Actually I'm a member of the cognitive robotics laboratory ![Labrc](https://github.com/Dmgg00/Dmgg00/blob/main/Media/labrobc.png) [Facebook](https://www.facebook.com/LabRobCog), [Twitter](https://x.com/labrobcog), [WebPage](http://www.roboticacognitiva.mx/).
+- I'm a AI student in the science research center (CINC ![CINC](https://github.com/Dmgg00/Dmgg00/blob/main/Media/cinc.png) by its acronym in Spanish) [![f](https://github.com/Dmgg00/Dmgg00/blob/main/Media/f.png)](https://www.facebook.com/CInCUAEM).
+- Actually I'm a member of the cognitive robotics laboratory ![Labrc](https://github.com/Dmgg00/Dmgg00/blob/main/Media/labrobc.png)  (links: [![f](https://github.com/Dmgg00/Dmgg00/blob/main/Media/f.png)](https://www.facebook.com/LabRobCog), [![x](https://github.com/Dmgg00/Dmgg00/blob/main/Media/x.png)](https://x.com/labrobcog), [![w](https://github.com/Dmgg00/Dmgg00/blob/main/Media/w2.png)](http://www.roboticacognitiva.mx/)).
 - I like ![tux](https://github.com/Dmgg00/Dmgg00/blob/main/Media/tux.png) my main distro is ![Ubuntu](https://github.com/Dmgg00/Dmgg00/blob/main/Media/ubntu.svg).
 - Im actually learning ![C](https://github.com/Dmgg00/Dmgg00/blob/main/Media/C.png) and ![py](https://github.com/Dmgg00/Dmgg00/blob/main/Media/py.png) for Data Cience, and a little bit of ![java](https://github.com/Dmgg00/Dmgg00/blob/main/Media/java.png) and ![R](https://github.com/Dmgg00/Dmgg00/blob/main/Media/R.png).
 
-And that's all minna.
+And that's all, Sayonara minna san.
 
 ![bye](https://github.com/Dmgg00/Dmgg00/blob/main/Media/bocchi-bocchi-the-rock.gif)
 
